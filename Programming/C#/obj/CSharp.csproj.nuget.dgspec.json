@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/jvitorsoares/projects/personal/coding-fundamentals/Programming/C#/CSharp/CSharp.csproj": {}
+    "/home/jvitorsoares/projects/personal/coding-fundamentals/Programming/C#/CSharp.csproj": {}
   },
   "projects": {
-    "/home/jvitorsoares/projects/personal/coding-fundamentals/Programming/C#/CSharp/CSharp.csproj": {
+    "/home/jvitorsoares/projects/personal/coding-fundamentals/Programming/C#/CSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jvitorsoares/projects/personal/coding-fundamentals/Programming/C#/CSharp/CSharp.csproj",
+        "projectUniqueName": "/home/jvitorsoares/projects/personal/coding-fundamentals/Programming/C#/CSharp.csproj",
         "projectName": "CSharp",
-        "projectPath": "/home/jvitorsoares/projects/personal/coding-fundamentals/Programming/C#/CSharp/CSharp.csproj",
+        "projectPath": "/home/jvitorsoares/projects/personal/coding-fundamentals/Programming/C#/CSharp.csproj",
         "packagesPath": "/home/jvitorsoares/.nuget/packages/",
-        "outputPath": "/home/jvitorsoares/projects/personal/coding-fundamentals/Programming/C#/CSharp/obj/",
+        "outputPath": "/home/jvitorsoares/projects/personal/coding-fundamentals/Programming/C#/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jvitorsoares/.nuget/NuGet/NuGet.Config"
